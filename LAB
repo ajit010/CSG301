@@ -34,22 +34,25 @@ Week 3
 LABS :  
 1. Cloud Storage: Qwik Start - Cloud Console
 
+ - Cloud Storage: Qwik Start - CLI/SDK
+
 2. Datastore: Qwik Start
 
 3. Cloud SQL for MySQL: Qwik Start
 
+ - Loading Data into Cloud SQL
+
 4. Cloud Spanner: Qwik Start
 
+5. Creating Spanner Instances and Databases (Console)
+
+6. Cloud Spanner - Database Fundamentals
+
+7. Deploy Microsoft SQL Server to Compute Engine
 
 
 
 
-
-
-
-
-
-
-Week 3 (ADvanced)   (to perform on friday)
+Week 3 (ADvanced)  
 
 LAB : -  https://www.cloudskillsboost.google/course_templates/874/labs/520609
