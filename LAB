@@ -29,9 +29,8 @@ Labs in this course :
 
 
 
-Week 3 
-
 LABS :  
+
 1. Cloud Storage: Qwik Start - Cloud Console
 
  - Cloud Storage: Qwik Start - CLI/SDK
@@ -50,9 +49,14 @@ LABS :
 
 7. Deploy Microsoft SQL Server to Compute Engine
 
+8. App Dev: Setting up a Development Environment - Python
+
+9. A Tour of Firebase
+
+10. App Dev: Storing Image and Video Files in Cloud Storage - Python
 
 
 
-Week 3 (ADvanced)  - perform after completing previous all labs ...
+11. Developing Applications with Google Cloud: Storing Application Data
 
 LAB : -  https://www.cloudskillsboost.google/course_templates/874/labs/520609
