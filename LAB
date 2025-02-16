@@ -27,9 +27,10 @@ Labs in this course :
 (Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL)
 
 
+===================================================================================================================================================
 
 
-LABS :  
+LABS for CSG(301):  
 
 1. Cloud Storage: Qwik Start - Cloud Console
 
@@ -57,7 +58,5 @@ LABS :
 
 11. Hosting a Web App on Google Cloud Using Compute Engine
 
+12. Developing Applications with Google Cloud: Storing Application Data
 
-12. Developing Applications with Google Cloud: Storing Application Data -- skip this one for now ...
-
-LAB : -  https://www.cloudskillsboost.google/course_templates/874/labs/520609
